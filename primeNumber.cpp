@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){                                                   //first method find a prime number.....
     int i;
     int n = 15;
     bool isPrime = true;
