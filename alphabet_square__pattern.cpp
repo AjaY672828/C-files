@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 //Alphabet Square Pattern ..................
-
 int main()
 {
     int rows;
