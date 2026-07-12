@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
+int main()  // i+1 ees liye liya kyu ke i+1 ye btata hai ke loop kitne baar chalega inner loop..
 {
     int rows;
     cout << "Enter your rows:";
