@@ -21,6 +21,7 @@ int main()
             }
             cout << "*";
         }
+        cout<<endl;
     }
 
     for (i = 0; i < n - 1; i++)
@@ -34,7 +35,7 @@ int main()
         // print space...
         if (i != (n - 2))
         {
-            for (j = 0; j < (2n - 2i - 5))
+            for (j = 0; j < 2*(n-i)-5 ; j++)
             {
                 cout << " ";
             }
